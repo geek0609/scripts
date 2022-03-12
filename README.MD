@@ -5,5 +5,5 @@
 ## Android Build Environment Setup 
 
 ```Shell
-curl -s https://raw.githubusercontent.com/geek0609/scripts/main/ubuntu-setup.sh | bash -s
+curl -s https://raw.githubusercontent.com/geek0609/scripts/main/ubuntu-setup.sh | sudo bash -s
 ```
